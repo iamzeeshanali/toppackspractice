@@ -1,0 +1,16 @@
+.card{
+
+    background: white;
+    padding: 1rem;
+    border: 1px solid #777;
+    border-radius: .25rem;
+    width: 300px;
+    
+    }
+    
+    .card-grid{
+    
+    display: grid;
+    
+    }
+    
